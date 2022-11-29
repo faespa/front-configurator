@@ -1,0 +1,86 @@
+:root {
+	--red: rgba(202,35,50,255);
+	--golden: rgba(190,161,72,255);
+	--brown: rgba(66,47,48,255);
+	--panelcolor: rgba(244,244,244,255);
+    --optionsbg: rgba(244,244,244,179);
+    --borderImages: 0.3rem solid var(--red);
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit; 
+}
+body {
+    margin: 0;
+}
+p {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.container {   
+    width: 100%;
+    margin: 0 auto;
+}
+.container-images {
+    background-image: url('../assets/Images/CeracladConf2DRev.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;   
+    margin-top: 4rem;
+}
+.container-images .images {
+    overflow: hidden;
+}
+.container-images .img-left {
+    position: relative;
+    overflow: visible;  
+}
+.img-left .cont-tag {
+    position: absolute;
+    top: 2rem;
+    left: -2rem;
+    width: auto;
+}
+.container-images .img-right {
+    position: relative;
+    overflow: visible;   
+}
+.img-right .cont-tag {
+    position: absolute;
+    top: 2rem;
+    right: -2rem;
+    width: auto;
+}
+.img-right .cont-tag .tag {
+    background-color: var(--red);
+}
+.cont-tag .tag {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    margin: 2rem 0 3.5rem 0;
+    padding: 0.5rem 1rem 0.5rem 0;
+    box-shadow: 0.3rem 0.3rem 0.2rem 0.2rem rgba(25, 25, 25, 0.4);
+}
+.cont-tag .tag .text {
+    margin: 0 2rem 0 2rem;
+}
+.cont-tag .tag:nth-child(odd) {
+    background-color: var(--golden);
+}
+.cont-tag .tag:nth-child(even) {
+    background-color: var(--red);
+}
+.img-right .cont-tag .tag {
+    background-color: var(--red);
+}

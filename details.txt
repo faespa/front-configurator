@@ -1,0 +1,45 @@
+Phase 1
+
+ 
+
+Rendering creation: We will have a similar process to the renderings that we just completed for you. We will create a building of 4 stories with a similar aesthetic to the provided reference image.
+
+We will allocate four areas were your finishes will be located. (main façade, accent1 accent 2 and Soffit.
+
+Along with the main image we will be working on the 2 additional snapshots.
+
+We will be sending sample renderings to get your feedback and once we have the renderingsr in the right spot and with your approval we will move to phase 2.
+
+*we will need to have a selection of four finishes for this first rendering. This first rendering would be the default configuration a user will find when using the configurator.
+
+*The main image will be processed in a final resolution of 3000px wide so it allows some zoom in without loosing quality.
+
+*The two complementary snapshots will be produced at 1500px wide (this images will not allow zooming in).
+
+ 
+
+Phase 2
+
+ 
+
+Creation of all the finishes option (211) for all the areas were those finishes will be available.
+
+We will need high resolution swatches for all the finishes.
+
+*The dimensions of the actual swatch will be necessary for us to scale the finish pattern properly.
+
+ 
+
+Phase 3
+
+ 
+
+Coding of the functionality, including data base creation renderings and swatches parametrization and controls.
+
+ 
+
+Phase 4
+
+ 
+
+User interface Design.; We ill propose a user interface that we will share with you in order to get your insights to make adjustments and define the final aspect.
